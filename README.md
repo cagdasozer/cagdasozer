@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**cagdasozer/cagdasozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ###- 👋 Hi, I’m @cagdasozer
 ### - 👀 I’m interested in Full Stack Developer
 ### - 🌱 I’m currently learning C#, .NetCore, Angular ...
