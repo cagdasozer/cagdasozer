@@ -1,5 +1,5 @@
 ### Hi there 👋
-###- 👋 Hi, I’m @cagdasozer
+### - 👋 Hi, I’m @cagdasozer
 ### - 👀 I’m interested in Full Stack Developer
 ### - 🌱 I’m currently learning C#, .NetCore, Angular ...
 ### - 📫 How to reach me ...
