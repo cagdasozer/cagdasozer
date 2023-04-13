@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### - 👋 I’m @cagdasozer
-### - 👀 I’m interested in Full Stack Developer
+### - 👀 I want to work as a Full Stack Developer
 ### - 🌱 I’m currently learning C#, .NetCore, Angular ...
 ### - 📫 How to reach me ...
 ### - https://www.linkedin.com/in/ozeerc/
